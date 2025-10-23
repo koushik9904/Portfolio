@@ -32,7 +32,7 @@
         "picture": "profile.jpeg"
     },
     "about": "A passionate Software Developer 🚀 | Open Source enthusiast 📝 | Maintainer 👷",
-    "bio": "Senior CS Engineering student. I spend my leisure time contributing to open source projects and browsing Stack Overflow. I've hands-on experience in working on several projects that use Python, Node.js, React, Java, etc. Most of my projects are released as open-source on GitHub.",
+    "bio": "Senior CS Engineering student. I spend my leisure time contributing to open source projects and browsing Stack Overflow. I have hands-on experience in working on several projects that use Python, Node.js, React, Java, etc. Most of my projects are released as open-source on GitHub.",
     "what_i_do": {
         "tools": [
             "node.png",
