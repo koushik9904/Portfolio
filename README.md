@@ -1,10 +1,3 @@
-Perfect 🔥 Thanks, Krishna!
-Here’s a **personalized, professional README** for your Flutter-based portfolio — rewritten cleanly in your own name and tailored for **Vercel deployment** with a GitHub token setup section.
-
-You can directly copy-paste this as your new `README.md` 👇
-
----
-
 # **Krishna Koushik Mandava — Portfolio ⚡️**
 
 ### *A clean, modern portfolio built with Flutter showcasing my projects and experience.*
