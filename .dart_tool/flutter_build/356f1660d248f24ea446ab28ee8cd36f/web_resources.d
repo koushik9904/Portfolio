@@ -1,0 +1,1 @@
+ /home/krishna/Desktop/Portfolio/build/web/style.css /home/krishna/Desktop/Portfolio/build/web/manifest.json:  /home/krishna/Desktop/Portfolio/web/index.html /home/krishna/Desktop/Portfolio/web/style.css /home/krishna/Desktop/Portfolio/web/manifest.json

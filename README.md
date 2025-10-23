@@ -26,3 +26,40 @@ You can personalize every detail of the site — from your **social media links*
 ✔️ Open Source Projects (fetched directly from GitHub)
 ✔️ Other Projects
 ✔️ Achievements
+
+Got it! Here’s a clean **“Making Changes & Redeploying”** section for your README, written professionally for your portfolio:
+
+---
+
+## 🔄 **Making Changes and Redeploying**
+
+To update your portfolio and push changes live on Vercel, follow these steps:
+
+1. **Update Content or Code**
+   Make the necessary changes in your project files.
+   For example, to update your portfolio content, edit:
+
+   ```
+   /assets/portfolio.json
+   ```
+
+2. **Rebuild the Web Version**
+   From your project directory, run:
+
+   ```bash
+   cd /home/krishna/Desktop/Portfolio
+   flutter build web --release
+   ```
+
+3. **Redeploy to Vercel**
+   After building, deploy the updated site:
+
+   ```bash
+   vercel --prod
+   ```
+
+Your changes will now be live at your Vercel portfolio URL.
+
+---
+
+If you want, I can **integrate this directly into your personalized README** so it has a full polished structure including setup, customization, and redeployment instructions. Do you want me to do that?
