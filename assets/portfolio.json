@@ -1,0 +1,153 @@
+{
+    "name_and_link": [
+        "KrishnaKoushik Mandava",
+        "https://github.com/koushik9904/"
+    ],
+    "designation": [
+        "CS Undergrad.",
+        "FullStack Developer."
+    ],
+    "resume_download_link": "https://drive.google.com/file/d/1KLnLSP0hhmC_MTp2R8BUZW57PxqLHNEP/view?usp=sharing",
+    "social_media": {
+        "1": [
+            "https://github.com/koushik9904/",
+            "github"
+        ],
+        "2": [
+            "https://codeforces.com/profile/Krish9904/",
+            "codeforces"
+        ],
+        "3": [
+            "https://www.linkedin.com/in/krishna-koushik-mandava-9428672a9/",
+            "linkedin"
+        ],
+        "4": [
+            "mailto:mkrishnakoushik99@gmail.com",
+            "email"
+        ]
+    },
+    "contact_me": {
+        "location": "Hyderabad, India",
+        "open_for_opportunities": "Yes",
+        "picture": "profile.jpeg"
+    },
+    "about": "A passionate Software Developer 🚀 | Open Source enthusiast 📝 | Maintainer 👷",
+    "bio": "Senior CS Engineering student. I spend my leisure time contributing to open source projects and browsing Stack Overflow. I've hands-on experience in working on several projects that use Python, Node.js, React, Java, etc. Most of my projects are released as open-source on GitHub.",
+    "what_i_do": {
+        "tools": [
+            "node.png",
+            "react.png",
+            "linux.png",
+            "cpp.png",
+            "java.png",
+            "python.png",
+            "bash.png",
+            "git.png"
+        ],
+        "proficiency": [
+            "React--80",
+            "Node.js--85",
+            "C/C++/Python--85",
+            "GNU/Linux--90",
+            "Git--80"
+        ]
+    },
+    "education": {
+        "1": {
+            "institute": "International Institute of Information Technology, Hyderabad",
+            "location": "Hyderabad",
+            "years": "2022 - 2026",
+            "description": "B.Tech in CSE",
+            "grades": "8.03 CGPA",
+            "logo": "college.png"
+        },
+        "2": {
+            "institute": "Sri Chaitanya Junior College",
+            "location": "Vijayawada, Andhra Pradesh",
+            "years": "2020 - 2022",
+            "description": "Physics, Chemistry, Mathematics",
+            "grades": "97.3%",
+            "logo": "school.png"
+        },
+        "3": {
+            "institute": "Sri Chaitanya School",
+            "location": "Vijayawada, Andhra Pradesh",
+            "years": "2012 - 2020",
+            "description": "Secondary Education",
+            "grades": "100%",
+            "logo": "school.png"
+        }
+    },
+    "experience": {
+        "1": {
+            "name": "HopeLog",
+            "role": "DevOps Engineering Intern",
+            "period": "May, 2025 - July, 2025",
+            "description": "Built a multi-environment CI/CD pipeline on GCP (Cloud Build, Docker, Cloud Run) with secure secrets management, separate dev/staging/prod setups, and integrated relational databases (NeonDB, Cloud SQL).",
+            "image_name": "HopeLogAvatar.png"
+        },
+        "2": {
+            "name": "CropDarpan",
+            "role": "Backend Developer",
+            "period": "January, 2025 - April, 2025",
+            "description": "Refactored the CropDarpan codebase for better performance and maintainability, and integrated the ReactJS frontend with backend services while handling CORS management.",
+            "image_name": "cropdarpan.png"
+        }
+    },
+    "projects": {
+        "1": {
+            "name": "Pulse Point Health App",
+            "tech_stack_used": "React Native, Machine Learning, FireBase, Python",
+            "description": "Built a program to visualize 10+ health metrics (steps, heart rate, calories, sleep, activity duration) by integrating data from multiple platforms via Health Connect APIs, with data refreshed every 10 seconds for near real-time tracking. Set up a Firebase database to securely store over 1,000 health records with real-time sync, and developed an insights engine using Naive Bayes to generate personalized predictions and trends.",
+            "general_or_github_link": "https://github.com/koushik9904/Pulse-Point-Health-App"
+        },
+        "2": {
+            "name": "Network File System",
+            "tech_stack_used": "C Programming, OS(Multi-threading, System Calls), Networking",
+            "description": "Developed a network file system with three servers—naming, storage, and client—supporting core operations like reading, writing, copying, deleting, and moving files/directories. Implemented request handling over TCP sockets with multi-threading, enabling concurrent processing of 10+ client requests simultaneously.",
+            "general_or_github_link": "https://github.com/koushik9904/Network-File-System"
+        },
+        "3": {
+            "name": "Database Management",
+            "tech_stack_used": "MySQL, Python",
+            "description": "Created a MySQL database for the Free Fire game to manage over 5,000+ game records, with features to search, insert, and delete data efficiently. Developed a Python3 CLI for database interaction, enabling fast execution of 50+ queries per session. Implemented role-based access control, allowing administrators and developers to perform actions according to their privileges.",
+            "general_or_github_link": "https://github.com/koushik9904/Free-Fire-Database"
+        },
+        "4": {
+            "name": "Classification Models",
+            "tech_stack_used": "Python, OOP",
+            "description": "Built a modular Python toolkit implementing 5+ core ML algorithms (kNN, GMM, PCA, KMeans, KDE etc.) from first principles, with 20+ unit tests ensuring 100% coverage. Designed for scikit-learn–style usage, enhancing reusability and reinforcing algorithmic fundamentals.",
+            "general_or_github_link": "https://github.com/koushik9904/KKLearn"
+        },
+        "5": {
+            "name": "Peer Code Clash",
+            "tech_stack_used": "Python Flask, WebSockets, HTML, CSS, JS, Codeforces API",
+            "description": "Developed PeerCode Clash, a hackathon project for on-demand coding challenges among friends. Built a Python Flask backend with WebSockets for real-time communication and randomized problem selection. Implemented role-based access and challenge management for seamless user interactions.",
+            "general_or_github_link": "https://github.com/koushik9904/Peer-Code-Clash/"
+        },
+        "6": {
+            "name": "Supply Chain Traceability",
+            "tech_stack_used": "Solidity, Hardhat, Web3.js, React, Ethereum",
+            "description": "Implemented a smart contract on Ethereum to securely track and verify product provenance. Developed a decentralized application (dApp) allowing stakeholders to query supply chain data via Web3. Deployed the smart contract on the Sepolia testnet for testing and validation.",
+            "general_or_github_link": ""
+        }
+    },
+    "achievements": {
+        "1": {
+            "description": "Secured AIR 400 in JEE Mains and AIR 1002 in JEE Advanced",
+            "link": "https://www.linkedin.com/posts/juecell_hacknpitch-include-hackathon-activity-6849231722333249536-qqw2"
+        },
+        "2": {
+            "description": "Scholar of NTSE(National Talent Search Exam), 2020",
+            "link": "https://www.linkedin.com/posts/shourya-shikhar_dapp-filecoin-decentralized-activity-6889903951555235840-FuLM"
+        },
+        "3": {
+            "description": "Maximum rating of 1435 in codeforces",
+            "link": "https://stackoverflow.com/users/10951873/shourya-shikhar"
+        },
+        "4": {
+            "description": "Reached Top 8 in Gamedraft(Hackathon by The Gaming Club, IIITH)",
+            "link": "https://www.qwiklabs.com/public_profiles/d317f0a6-63b7-4c9f-be77-066e75ba3c6a"
+        }
+    }
+}
